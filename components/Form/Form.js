@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import FormLeftWrapper from './Components/FormLeftWrapper'
+import FormLeftWrapper from './components/FormLeftWrapper'
 import FormRightWrapper from './components/FormRightWrapper'
 import { createContext, useState } from 'react';
 import { toast } from 'react-toastify';
