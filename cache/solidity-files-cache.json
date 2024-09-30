@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\rahul\\Fundraiser Dapp\\thesaviour\\contracts\\Campaign.sol": {
+      "lastModificationDate": 1727623631351,
+      "contentHash": "20a8c455536c72d2a67a07b20acc8aaf",
+      "sourceName": "contracts/Campaign.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.7.0 <=0.9.0"
+      ],
+      "artifacts": [
+        "Campaign",
+        "campaignFactory"
+      ]
+    }
+  }
+}
