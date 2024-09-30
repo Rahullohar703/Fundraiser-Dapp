@@ -37,6 +37,7 @@ export default function Index({ AllData, HealthData, EducationData, AnimalData }
                   alt="Fundraiser dapp"
                   layout='fill'
                   src={`${e.image}`}
+                  priority
                 />
               </CardImg>
               <Title>
